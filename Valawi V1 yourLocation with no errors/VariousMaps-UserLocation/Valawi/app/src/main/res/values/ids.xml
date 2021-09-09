@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="menu_streets" type="id"/>
+    <item name="menu_dark" type="id"/>
+    <item name="menu_light" type="id"/>
+    <item name="menu_outdoors" type="id"/>
+    <item name="menu_satellite" type="id"/>
+    <item name="menu_satellite_streets" type="id"/>
+    <item name="location_title_tv" type="id"/>
+    <item name="location_num_of_beds_tv" type="id"/>
+    <item name="single_location_cardview" type="id"/>
+</resources>
